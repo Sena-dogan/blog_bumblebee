@@ -7,7 +7,7 @@ import type {
 import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
-  title: 'KaliDev',
+  title: 'QBEEe',
   subtitle: 'Personal Blog',
   lang: 'en',         // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko'
   themeColor: {
@@ -16,7 +16,7 @@ export const siteConfig: SiteConfig = {
   },
   banner: {
     enable: true,
-    src: 'assets/images/silverfang_akali.jpg',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+    src: 'assets/images/Designer.jpeg',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
     position: 'top', // Equivalent to object-position, defaults center
     credit: {
       enable: false,         // Display the credit text of the banner image
@@ -52,7 +52,7 @@ export const navBarConfig: NavBarConfig = {
 
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/avatar.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+  avatar: 'assets/images/hacker.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'Sena Doğan',
   bio: 'Full Stack Designer',
   links: [
