@@ -1,9 +1,14 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+## Heyyy, I'm Sena 👻 🎸 💻📲 
 
-::github{repo="saicaca/fuwari"}
+a mobile application developer who loves building apps with [Flutter](https://github.com/flutter/flutter). Currently studying at [Yildiz Technical University](https://yildiz.edu.tr/), I'm passionate about science, technology, and learning new things.
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+You'll find here some of my projects and packages that showcase my skills and interests in the Flutter ecosystem.
+
+
+### Reach me
+
+[Linkedin](https://www.linkedin.com/in/sena-dogan-dev)  [Website](https://cv.senadogan.dev/)
+
+### Collaborate with me
+
+If you're interested in collaborating on a project or need help with something, feel free to reach out to me. I'm always happy to learn from others and contribute to the open-source community.
